@@ -1,0 +1,5 @@
+{
+  "name": "Kama Sales CRM",
+  "description": "A lightweight MVP web application for a jewelry manufacturer’s Sales CRM dashboard, combining a manual Activity Log and an ERP-fed Quant Dashboard.",
+  "requestFramePermissions": []
+}
